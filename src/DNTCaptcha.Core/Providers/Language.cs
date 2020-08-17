@@ -23,6 +23,11 @@
         /// <summary>
         /// Italian Language
         /// </summary>
-        Italian
+        Italian,
+
+        /// <summary>
+        /// Russian Language
+        /// </summary>
+        Russian
     }
 }
